@@ -1,0 +1,16 @@
+.card{
+    display:flex;
+    flex-direction: row;
+    border:solid 1px #000;
+    align-items: center;
+    margin: 10px;
+    width: 480px;
+}
+.card-img{
+    width: 200px;
+}
+.info-destino{
+    font-size:20px;
+    height: 150px;
+    width: 300px;
+}

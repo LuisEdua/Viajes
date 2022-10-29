@@ -1,0 +1,21 @@
+.ofertas_container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+    min-width: none;
+    max-width: 1500px;
+    background-color:#fff;
+}
+.top_container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-width: none;
+    max-width: 1500px;
+    background-color:#fff;
+}
